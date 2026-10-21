@@ -1,11 +1,11 @@
-# 📊 Employee Analytics Dashboard (Microsoft Excel)
+# Employee Analytics Dashboard (Microsoft Excel)
 
-## 📌 Overview
+##  Overview
 This project is an interactive **Employee Analytics Dashboard** built using **Microsoft Excel**. It provides meaningful insights into employee data through dynamic visualizations, KPI cards, PivotTables, Pivot Charts, and Slicers, making it easy to explore workforce information and support data-driven decisions.
 
 ---
 
-## 🚀 Features
+##  Features
 - Interactive dashboard with Slicers
 - KPI cards for key employee metrics
 - PivotTables for data summarization
@@ -17,7 +17,7 @@ This project is an interactive **Employee Analytics Dashboard** built using **Mi
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -27,7 +27,7 @@ This project is an interactive **Employee Analytics Dashboard** built using **Mi
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 - Total Employees
 - Gender Distribution
 - Department-wise Employee Count
@@ -37,7 +37,7 @@ This project is an interactive **Employee Analytics Dashboard** built using **Mi
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 > Add screenshots of your dashboard in the `screenshots` folder and display them here.
 
@@ -47,7 +47,7 @@ Example:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 employee-analytics-dashboard/
