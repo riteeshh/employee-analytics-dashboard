@@ -61,7 +61,7 @@ employee-analytics-dashboard/
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Dashboard Design
@@ -72,17 +72,6 @@ employee-analytics-dashboard/
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 To design an interactive Employee Analytics Dashboard that enables users to analyze employee data efficiently through visual reports and key performance indicators.
 
----
-
-## 👨‍💻 Author
-
-**Ritesh B**
-
-- GitHub: https://github.com/riteeshh
-
----
-
-⭐ If you found this project useful, feel free to star the repository!
